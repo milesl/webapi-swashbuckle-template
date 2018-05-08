@@ -1,2 +1,2 @@
 # webapi-swashbuckle-template
-A template for webapi and swashbuckle
+This a very simple template for working with swashbuckle and webapi.
